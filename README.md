@@ -4,16 +4,16 @@ This project simulates the process of the receiver of a byte of information into
  ### 1.   even parity (paridad par)
 
  ### 1. No mistake
-    ![](imagenes/ejemplo1_r.jpg)
+ ![](imagenes/ejemplo1_r.jpg)
  ### 2. One mistake
-    ![](imagenes/ejemplo1_2_r.jpg)
+ ![](imagenes/ejemplo1_2_r.jpg)
  ### 3. Two mistakes
-    ![](imagenes/ejemplo1_3_r.jpg)
+ ![](imagenes/ejemplo1_3_r.jpg)
 
  ### 2.   odd parity (paridad impar)
-    ### 1. No mistake
-    ![](imagenes/ejemplo2_r.jpg)
-    ### 2. One mistake
-    ![](imagenes/ejemplo2_2_r.jpg)
-    ### 3. Two mistakes
-    ![](imagenes/ejemplo2_3_r.jpg)
+ ### 1. No mistake
+ ![](imagenes/ejemplo2_r.jpg)
+ ### 2. One mistake
+ ![](imagenes/ejemplo2_2_r.jpg)
+ ### 3. Two mistakes
+ ![](imagenes/ejemplo2_3_r.jpg)
