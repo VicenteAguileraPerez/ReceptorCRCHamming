@@ -48,7 +48,7 @@
         android:layout_width="270dp"
         android:layout_height="54dp"
         android:ems="10"
-        android:hint="Divisior diferente de 0"
+        android:hint="Divisor diferente de 0"
         android:inputType="number"
         app:layout_constraintBottom_toTopOf="@+id/guideline3"
         app:layout_constraintEnd_toEndOf="parent"
